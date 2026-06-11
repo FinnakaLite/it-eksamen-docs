@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 556.65 752.16">
+  <!-- Generator: Adobe Illustrator 30.5.1, SVG Export Plug-In . SVG Version: 2.1.4 Build 3)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4 {
+        fill: none;
+      }
+
+      .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st1, .st14, .st15, .st16, .st3, .st17, .st18, .st19, .st4 {
+        isolation: isolate;
+      }
+
+      .st5, .st6, .st11, .st14, .st15, .st16 {
+        font-size: 12.6px;
+      }
+
+      .st5, .st16 {
+        fill: #9fe1cb;
+      }
+
+      .st20 {
+        mask: url(#mask);
+      }
+
+      .st21 {
+        fill: #444441;
+        stroke: #b4b2a9;
+      }
+
+      .st21, .st1, .st2, .st22, .st3, .st23, .st24, .st25 {
+        stroke-miterlimit: 3.6;
+        stroke-width: .45px;
+      }
+
+      .st6 {
+        fill: #fac775;
+      }
+
+      .st6, .st26, .st27, .st28, .st12, .st13, .st29, .st15, .st30, .st16, .st31 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .st7 {
+        fill: #b4b2a9;
+      }
+
+      .st7, .st8, .st9, .st10, .st12, .st13, .st17, .st18, .st19 {
+        font-size: 10.8px;
+      }
+
+      .st26 {
+        letter-spacing: 0em;
+      }
+
+      .st8, .st9, .st12, .st13 {
+        fill: #c2c0b6;
+      }
+
+      .st8, .st13, .st3 {
+        opacity: .6;
+      }
+
+      .st9, .st12 {
+        opacity: .7;
+      }
+
+      .st27 {
+        letter-spacing: 0em;
+      }
+
+      .st10 {
+        fill: #85b7eb;
+      }
+
+      .st32 {
+        font-family: AppleBraille-Outline6Dot, 'Apple Braille';
+      }
+
+      .st11 {
+        fill: #d3d1c7;
+      }
+
+      .st28 {
+        letter-spacing: 0em;
+      }
+
+      .st1, .st2, .st3 {
+        stroke: #9c9a92;
+        stroke-dasharray: 3.6 2.7;
+      }
+
+      .st1, .st4 {
+        opacity: .5;
+      }
+
+      .st14 {
+        fill: #cecbf6;
+      }
+
+      .st29 {
+        letter-spacing: 0em;
+      }
+
+      .st22 {
+        fill: #633806;
+        stroke: #ef9f27;
+      }
+
+      .st15 {
+        fill: #b5d4f4;
+      }
+
+      .st30 {
+        letter-spacing: 0em;
+      }
+
+      .st33 {
+        fill: #fff;
+      }
+
+      .st17 {
+        fill: #5dcaa5;
+      }
+
+      .st23 {
+        fill: #3c3489;
+        stroke: #afa9ec;
+      }
+
+      .st24 {
+        fill: #0c447c;
+        stroke: #85b7eb;
+      }
+
+      .st18 {
+        fill: #afa9ec;
+      }
+
+      .st19 {
+        fill: #ef9f27;
+      }
+
+      .st25 {
+        fill: #085041;
+        stroke: #5dcaa5;
+      }
+    </style>
+    <mask id="mask" x="-35.77" y="-17.77" width="612" height="774" maskUnits="userSpaceOnUse">
+      <g id="imagine-text-gaps-x8fatm">
+        <rect class="st33" x="-35.77" y="-17.77" width="612" height="774"/>
+        <rect x="224.9" y="10.35" width="90.65" height="19.35" rx="1.8" ry="1.8"/>
+        <rect x="212.28" y="78.75" width="115.89" height="19.35" rx="1.8" ry="1.8"/>
+        <rect x="144.76" y="99.67" width="250.94" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="28.35" y="79.87" width="44.54" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="24.76" y="94.27" width="51.72" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="13.35" y="106.87" width="74.56" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="186.63" y="161.55" width="167.19" height="19.35" rx="1.8" ry="1.8"/>
+        <rect x="167.42" y="182.47" width="205.61" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="184.41" y="244.35" width="171.63" height="19.35" rx="1.8" ry="1.8"/>
+        <rect x="58.09" y="265.27" width="424.28" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="481.35" y="245.47" width="51.15" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="485.63" y="259.87" width="42.58" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="475.99" y="274.27" width="61.87" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="145.77" y="327.15" width="248.91" height="19.35" rx="1.8" ry="1.8"/>
+        <rect x="107.89" y="348.07" width="324.67" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="176.41" y="413.55" width="187.64" height="19.35" rx="1.8" ry="1.8"/>
+        <rect x="163.6" y="432.67" width="213.25" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="162.88" y="447.07" width="214.69" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="187.67" y="503.55" width="165.1" height="19.35" rx="1.8" ry="1.8"/>
+        <rect x="140.54" y="524.47" width="259.38" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="8.37" y="501.07" width="77.31" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="25.33" y="515.47" width="43.4" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="12.26" y="528.07" width="69.54" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="27.47" y="540.67" width="39.11" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="461.89" y="340.42" width="37.87" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="456.18" y="354.82" width="49.29" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="193.87" y="586.35" width="152.71" height="19.35" rx="1.8" ry="1.8"/>
+        <rect x="138.35" y="607.27" width="263.75" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="171.42" y="674.55" width="197.61" height="19.35" rx="1.8" ry="1.8"/>
+        <rect x="147.77" y="693.67" width="244.47" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="165.4" y="709.87" width="209.21" height="17.1" rx="1.8" ry="1.8"/>
+        <rect x="13.17" y="11.47" width="73.11" height="17.1" rx="1.8" ry="1.8"/>
+      </g>
+    </mask>
+  </defs>
+  <g onclick="sendPrompt(&apos;Forklar start-trinnet i lastebilstatussjekken&apos;)">
+    <path class="st21" d="M209.02.22h122.4c10.94,0,19.8,8.86,19.8,19.8h0c0,10.94-8.86,19.8-19.8,19.8h-122.4c-10.94,0-19.8-8.86-19.8-19.8h0c0-10.94,8.86-19.8,19.8-19.8Z"/>
+    <text class="st11" transform="translate(216.75 22.41)"><tspan class="st31" x="0" y="0">User</tspan><tspan class="st32" x="23.57" y="0"> </tspan><tspan class="st31" x="27.88" y="0">Loads</tspan><tspan class="st32" x="58.91" y="0"> </tspan><tspan class="st26" x="63.22" y="0">Webpage</tspan></text>
+  </g>
+  <path class="st0" d=""/>
+  <path class="st0" d="M265.36,65.38l4.86,3.24-4.86,3.24"/>
+  <path class="st0" d="M270.22,68.62" marker-end="url(#arrow)"/>
+  <g onclick="sendPrompt(&apos;Hvilken SQL-spørring brukes for å hente alle lastebiler?&apos;)">
+    <rect class="st24" x="108.22" y="68.62" width="324" height="54" rx="7.2" ry="7.2"/>
+    <text class="st15" transform="translate(231.47 88.42)"><tspan x="0" y="0">fetchAllVehicles()</tspan></text>
+    <text class="st10" transform="translate(187.17 108.23)"><tspan class="st31" x="0" y="0">SELECT</tspan><tspan class="st32" x="32.68" y="0"> </tspan><tspan class="st31" x="36.37" y="0">*</tspan><tspan class="st32" x="40.85" y="0"> </tspan><tspan class="st31" x="44.54" y="0">FROM</tspan><tspan class="st32" x="71.74" y="0"> </tspan><tspan class="st29" x="75.43" y="0">vehicles</tspan><tspan class="st32" x="111.63" y="0"> </tspan><tspan class="st31" x="115.32" y="0">—</tspan><tspan class="st32" x="126.12" y="0"> </tspan><tspan class="st31" x="129.81" y="0">returnerer</tspan><tspan class="st32" x="175.69" y="0"> </tspan><tspan class="st31" x="179.38" y="0">Vehicle[]</tspan></text>
+  </g>
+  <rect class="st3" x="5.62" y="72.22" width="90" height="46.8" rx="5.4" ry="5.4"/>
+  <text class="st12" transform="translate(37.7 88.42)"><tspan x="0" y="0">Vehicle</tspan></text>
+  <text class="st9" transform="translate(34.01 102.83)"><tspan class="st31" x="0" y="0">id,</tspan><tspan class="st32" x="10.85" y="0"> </tspan><tspan class="st31" x="14.54" y="0">name,</tspan></text>
+  <text class="st12" transform="translate(30.32 115.42)"><tspan x="0" y="0">plateNumber</tspan></text>
+  <line class="st2" x1="95.62" y1="95.62" x2="108.22" y2="95.62"/>
+  <path class="st0" d=""/>
+  <path class="st0" d="M265.36,148.18l4.86,3.24-4.86,3.24"/>
+  <path class="st0" d="M270.22,151.42" marker-end="url(#arrow)"/>
+  <g onclick="sendPrompt(&apos;Forklar løkken som går gjennom alle lastebiler&apos;)">
+    <rect class="st23" x="126.22" y="151.42" width="288" height="54" rx="7.2" ry="7.2"/>
+    <text class="st14" transform="translate(209.93 171.23)"><tspan class="st31" x="0" y="0">for</tspan><tspan class="st32" x="14.72" y="0"> </tspan><tspan class="st31" x="19.02" y="0">each</tspan><tspan class="st32" x="44.05" y="0"> </tspan><tspan class="st31" x="48.35" y="0">vehicle</tspan><tspan class="st32" x="85.6" y="0"> </tspan><tspan class="st26" x="89.9" y="0">in</tspan><tspan class="st32" x="99.85" y="0"> </tspan><tspan class="st31" x="104.15" y="0">vehicles</tspan></text>
+    <text class="st18" transform="translate(194.55 191.02)"><tspan class="st31" x="0" y="0">Iterer</tspan><tspan class="st32" x="24.04" y="0"> </tspan><tspan class="st31" x="27.73" y="0">over</tspan><tspan class="st32" x="47.8" y="0"> </tspan><tspan class="st31" x="51.49" y="0">Vehicle[]</tspan><tspan class="st32" x="90.38" y="0"> </tspan><tspan class="st31" x="94.07" y="0">—</tspan><tspan class="st32" x="104.87" y="0"> </tspan><tspan class="st31" x="108.56" y="0">variabel:</tspan><tspan class="st32" x="146.57" y="0"> </tspan><tspan class="st28" x="150.26" y="0">vehicle</tspan></text>
+  </g>
+  <path class="st0" d=""/>
+  <path class="st0" d="M265.36,230.98l4.86,3.24-4.86,3.24"/>
+  <path class="st0" d="M270.22,234.22" marker-end="url(#arrow)"/>
+  <g onclick="sendPrompt(&apos;Hva returnerer getLastLocation og hvilken databasespørring brukes?&apos;)">
+    <rect class="st24" x="73.34" y="234.22" width="378.7" height="54" rx="7.2" ry="7.2"/>
+    <text class="st15" transform="translate(195.85 254.14)"><tspan x="0" y="0">getLastLocation(vehicle.id)</tspan></text>
+    <text class="st10" transform="translate(75.82 273.94)"><tspan class="st31" x="0" y="0">SELECT</tspan><tspan class="st32" x="32.68" y="0"> </tspan><tspan class="st31" x="36.37" y="0">*</tspan><tspan class="st32" x="40.85" y="0"> </tspan><tspan class="st31" x="44.54" y="0">FROM</tspan><tspan class="st32" x="71.74" y="0"> </tspan><tspan class="st29" x="75.43" y="0">locations</tspan><tspan class="st32" x="116.25" y="0"> </tspan><tspan class="st31" x="119.95" y="0">WHERE</tspan><tspan class="st32" x="152.56" y="0"> </tspan><tspan class="st28" x="156.25" y="0">vehicleId=?</tspan><tspan class="st32" x="207.67" y="0"> </tspan><tspan class="st31" x="211.36" y="0">ORDER</tspan><tspan class="st32" x="242.93" y="0"> </tspan><tspan class="st31" x="246.62" y="0">BY</tspan><tspan class="st32" x="258.32" y="0"> </tspan><tspan class="st30" x="262.01" y="0">timestamp</tspan><tspan class="st32" x="310.74" y="0"> </tspan><tspan class="st28" x="314.43" y="0">DESC</tspan><tspan class="st32" x="338.52" y="0"> </tspan><tspan class="st31" x="342.21" y="0">LIMIT</tspan><tspan class="st32" x="366.53" y="0"> </tspan><tspan class="st31" x="370.22" y="0">1</tspan></text>
+  </g>
+  <rect class="st3" x="457.42" y="237.82" width="99" height="46.8" rx="5.4" ry="5.4"/>
+  <text class="st12" transform="translate(492.16 254.02)"><tspan x="0" y="0">Location</tspan></text>
+  <text class="st9" transform="translate(490.31 268.42)"><tspan class="st31" x="0" y="0">lat,</tspan><tspan class="st32" x="13.56" y="0"> </tspan><tspan class="st31" x="17.26" y="0">lng,</tspan></text>
+  <text class="st12" transform="translate(490.31 282.83)"><tspan x="0" y="0">timestamp</tspan></text>
+  <line class="st2" x1="450.22" y1="261.22" x2="457.42" y2="261.22"/>
+  <path class="st0" d=""/>
+  <path class="st0" d="M265.36,313.78l4.86,3.24-4.86,3.24"/>
+  <path class="st0" d="M270.22,317.02" marker-end="url(#arrow)"/>
+  <g onclick="sendPrompt(&apos;Forklar hvordan timeSinceLastPing beregnes i TypeScript&apos;)">
+    <rect class="st25" x="99.22" y="317.02" width="358.2" height="54" rx="7.2" ry="7.2"/>
+    <text class="st16" transform="translate(163.01 335.85)"><tspan x="0" y="0">calculateTimeSince(location.timestamp)</tspan></text>
+    <text class="st17" transform="translate(135.94 355.65)"><tspan class="st31" x="0" y="0">const</tspan><tspan class="st32" x="24.61" y="0"> </tspan><tspan class="st31" x="28.3" y="0">timeSinceLastPing</tspan><tspan class="st32" x="111.38" y="0"> </tspan><tspan class="st31" x="115.07" y="0">=</tspan><tspan class="st32" x="121.5" y="0"> </tspan><tspan class="st31" x="125.2" y="0">Date.now()</tspan><tspan class="st32" x="174.82" y="0"> </tspan><tspan class="st31" x="178.51" y="0">−</tspan><tspan class="st32" x="184.95" y="0"> </tspan><tspan class="st31" x="188.64" y="0">timestamp</tspan><tspan class="st32" x="237.37" y="0"> </tspan><tspan class="st31" x="241.06" y="0">(ms:min)</tspan></text>
+  </g>
+  <path class="st0" d=""/>
+  <path class="st0" d="M265.36,396.58l4.86,3.24-4.86,3.24"/>
+  <path class="st0" d="M270.22,399.82" marker-end="url(#arrow)"/>
+  <g onclick="sendPrompt(&apos;Hvilke terskelverdier brukes for å bestemme status?&apos;)">
+    <rect class="st22" x="108.22" y="399.82" width="324" height="64.8" rx="7.2" ry="7.2"/>
+    <text class="st6" transform="translate(195.37 418.7)"><tspan x="0" y="0">getStatus(timeSinceLastPing)</tspan></text>
+    <text class="st19" transform="translate(191.26 438.14)"><tspan class="st31" x="0" y="0">if</tspan><tspan class="st32" x="5.68" y="0"> </tspan><tspan class="st31" x="9.37" y="0">&lt;5min</tspan><tspan class="st32" x="38.88" y="0"> </tspan><tspan class="st31" x="42.57" y="0">ONLINE</tspan><tspan class="st32" x="77.21" y="0"> </tspan><tspan class="st31" x="80.91" y="0">|</tspan><tspan class="st32" x="83.49" y="0"> </tspan><tspan class="st31" x="87.18" y="0">&lt;30min</tspan><tspan class="st32" x="122.22" y="0"> </tspan><tspan class="st28" x="125.92" y="0">DELAYED</tspan></text>
+    <text class="st19" transform="translate(186.41 453.98)"><tspan class="st31" x="0" y="0">else</tspan><tspan class="st32" x="17.65" y="0"> </tspan><tspan class="st31" x="21.34" y="0">OFFLINE</tspan><tspan class="st32" x="59.4" y="0"> </tspan><tspan class="st31" x="63.09" y="0">(returtype:</tspan><tspan class="st32" x="110.61" y="0"> </tspan><tspan class="st31" x="114.3" y="0">StatusEnum)</tspan></text>
+  </g>
+  <path class="st0" d=""/>
+  <path class="st0" d="M265.36,490.18l4.86,3.24-4.86,3.24"/>
+  <path class="st0" d="M270.22,493.42" marker-end="url(#arrow)"/>
+  <g onclick="sendPrompt(&apos;Hvilken datastruktur brukes for resultatlisten?&apos;)">
+    <rect class="st25" x="99.22" y="493.42" width="342" height="54" rx="7.2" ry="7.2"/>
+    <text class="st5" transform="translate(199.79 514.23)"><tspan class="st31" x="0" y="0">Bygg</tspan><tspan class="st32" x="26.85" y="0"> </tspan><tspan class="st31" x="31.16" y="0">VehicleStatus-objekt</tspan></text>
+    <text class="st17" transform="translate(157.65 534.03)"><tspan class="st31" x="0" y="0">{</tspan><tspan class="st32" x="3.07" y="0"> </tspan><tspan class="st29" x="6.76" y="0">vehicle,</tspan><tspan class="st32" x="40.92" y="0"> </tspan><tspan class="st29" x="44.61" y="0">lastLocation,</tspan><tspan class="st32" x="101.55" y="0"> </tspan><tspan class="st31" x="105.24" y="0">timeSinceLastPing,</tspan><tspan class="st32" x="190.55" y="0"> </tspan><tspan class="st31" x="194.24" y="0">status</tspan><tspan class="st32" x="221.1" y="0"> </tspan><tspan class="st30" x="224.79" y="0">}</tspan></text>
+  </g>
+  <rect class="st3" x="5.62" y="493.42" width="82.8" height="57.6" rx="5.4" ry="5.4"/>
+  <text class="st12" transform="translate(23.03 509.63)"><tspan x="0" y="0">VehicleStatus</tspan></text>
+  <text class="st12" transform="translate(34.11 524.02)"><tspan x="0" y="0">vehicle</tspan></text>
+  <text class="st12" transform="translate(24.88 536.63)"><tspan x="0" y="0">lastLocation</tspan></text>
+  <text class="st12" transform="translate(35.95 549.23)"><tspan x="0" y="0">status</tspan></text>
+  <line class="st2" x1="88.42" y1="522.22" x2="99.22" y2="522.22"/>
+  <path class="st0" d=""/>
+  <path class="st0" d="M411.63,176.7l2.59,1.73-2.59,1.73"/>
+  <g class="st20">
+    <path class="st4" d="M414.22,178.42" marker-end="url(#arrow)"/>
+  </g>
+  <text class="st13" transform="translate(471.6 353.02)"><tspan x="0" y="0">Neste</tspan></text>
+  <text class="st13" transform="translate(466.06 367.43)"><tspan x="0" y="0">kjøretøy</tspan></text>
+  <path class="st0" d=""/>
+  <path class="st0" d="M265.36,572.98l4.86,3.24-4.86,3.24"/>
+  <path class="st0" d="M270.22,576.22" marker-end="url(#arrow)"/>
+  <g onclick="sendPrompt(&apos;Hvordan bør resultatlisten sorteres i brukergrensesnittet?&apos;)">
+    <rect class="st24" x="99.22" y="576.22" width="342" height="54" rx="7.2" ry="7.2"/>
+    <text class="st15" transform="translate(209.13 596.88)"><tspan x="0" y="0">sortAndDisplay(results)</tspan></text>
+    <text class="st10" transform="translate(164.52 616.68)"><tspan class="st31" x="0" y="0">Sorter</tspan><tspan class="st32" x="27.3" y="0"> </tspan><tspan class="st31" x="30.99" y="0">etter</tspan><tspan class="st32" x="52.5" y="0"> </tspan><tspan class="st29" x="56.19" y="0">status</tspan><tspan class="st32" x="83.05" y="0"> </tspan><tspan class="st31" x="86.74" y="0">(OFFLINE</tspan><tspan class="st32" x="127.86" y="0"> </tspan><tspan class="st31" x="131.56" y="0">først)</tspan><tspan class="st32" x="155.09" y="0"> </tspan><tspan class="st28" x="158.78" y="0">render</tspan><tspan class="st32" x="188.75" y="0"> </tspan><tspan class="st31" x="192.44" y="0">tabell</tspan></text>
+  </g>
+  <path class="st0" d=""/>
+  <path class="st0" d="M265.36,655.78l4.86,3.24-4.86,3.24"/>
+  <path class="st0" d="M270.22,659.02" marker-end="url(#arrow)"/>
+  <g onclick="sendPrompt(&apos;Vis meg et eksempel på hvordan brukergrensesnittet for lastebilstatus kan se ut&apos;)">
+    <rect class="st21" x="63.22" y="659.02" width="414" height="92.91" rx="7.2" ry="7.2"/>
+    <text class="st11" transform="translate(203.47 684.23)"><tspan class="st31" x="0" y="0">Brukergrensesnitt</tspan><tspan class="st32" x="93.28" y="0"> </tspan><tspan class="st31" x="97.58" y="0">—</tspan><tspan class="st32" x="110.18" y="0"> </tspan><tspan class="st26" x="114.49" y="0">statusliste</tspan></text>
+    <text class="st7" transform="translate(181.63 702.23)"><tspan class="st31" x="0" y="0">(Online)</tspan><tspan class="st32" x="36.05" y="0"> </tspan><tspan class="st31" x="39.74" y="0">LB-001</tspan><tspan class="st32" x="70.63" y="0"> </tspan><tspan class="st31" x="74.32" y="0">·</tspan><tspan class="st32" x="76.56" y="0"> </tspan><tspan class="st27" x="80.25" y="0">2</tspan><tspan class="st32" x="85.79" y="0"> </tspan><tspan class="st31" x="89.48" y="0">min</tspan><tspan class="st32" x="107.01" y="0"> </tspan><tspan class="st31" x="110.7" y="0">siden</tspan><tspan class="st32" x="135" y="0" xml:space="preserve">  </tspan><tspan class="st31" x="0" y="12.96">(Unreliable)</tspan><tspan class="st32" x="52.44" y="12.96"> </tspan><tspan class="st31" x="56.14" y="12.96">LB-003</tspan><tspan class="st32" x="87.02" y="12.96"> </tspan><tspan class="st31" x="90.71" y="12.96">·</tspan><tspan class="st32" x="92.95" y="12.96"> </tspan><tspan class="st31" x="96.64" y="12.96">18</tspan><tspan class="st32" x="107.72" y="12.96"> </tspan><tspan class="st28" x="111.41" y="12.96">min</tspan><tspan class="st32" x="128.94" y="12.96"> </tspan><tspan class="st28" x="132.63" y="12.96">siden</tspan></text>
+    <text class="st7" transform="translate(182.32 730.39)"><tspan class="st31" x="0" y="0">(Offline</tspan><tspan class="st32" x="33.24" y="0"> </tspan><tspan class="st27" x="36.93" y="0">/</tspan><tspan class="st32" x="40.64" y="0"> </tspan><tspan class="st29" x="44.33" y="0">Failure)</tspan><tspan class="st32" x="77.83" y="0"> </tspan><tspan class="st31" x="81.52" y="0">LB-007</tspan><tspan class="st32" x="112.41" y="0"> </tspan><tspan class="st31" x="116.1" y="0">·</tspan><tspan class="st32" x="118.34" y="0"> </tspan><tspan class="st31" x="122.03" y="0">47</tspan><tspan class="st32" x="133.11" y="0"> </tspan><tspan class="st31" x="136.8" y="0">min</tspan><tspan class="st32" x="154.33" y="0"> </tspan><tspan class="st31" x="158.02" y="0">siden</tspan></text>
+  </g>
+  <rect class="st1" x=".22" y=".22" width="99" height="32.4" rx="5.4" ry="5.4"/>
+  <text class="st8" transform="translate(23.89 20.02)"><tspan class="st31" x="0" y="0">-</tspan><tspan class="st32" x="3.32" y="0"> </tspan><tspan class="st31" x="7.01" y="0">-</tspan><tspan class="st32" x="10.32" y="0"> </tspan><tspan class="st31" x="14.01" y="0">-</tspan><tspan class="st32" x="17.33" y="0"> </tspan><tspan class="st31" x="21.02" y="0">Datatype</tspan></text>
+</svg>

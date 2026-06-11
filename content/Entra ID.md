@@ -1,0 +1,3 @@
+Vi bruker **Microsoft Entra ID** som eneste identitetsleverandør. Dette betyr at ansatte bruker samme bruker overalt, og at IT har ett sted å administrere og deaktivere kontoer.
+
+Grunnen til at vi bruker Entra ID er at vi unngår å ha et passord for vært sted man skal logge seg på, og vi unngår å stole på brukeren/enheten. For eksempel, hvis en yrkesjåfør ansatt logger seg på nettet, blir de automatisk koblet til VLAN 30. Dette skjer i bakgrunnen uten at yrkesjåføren må gjøre noe, dermed fjerner vi risikoen for at noen ved unhell kobler seg til feil nettverk. 
